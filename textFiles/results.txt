@@ -1,0 +1,10 @@
+Odysseus  Health remaining: 0  Stamina remaining: 97
+Defense: 10  Calamity chance: 40
+Total gold earned: 0  Total damage dealt: 20  Number of misses: 0
+Total damage taken: 110
+
+Argos  Health remaining: 120  Stamina remaining: 100
+Defense: 20  Calamity chance: 40
+Total gold earned: 0  Total damage dealt: 0  Number of misses: 0
+Total damage taken: -0
+

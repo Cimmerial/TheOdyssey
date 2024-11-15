@@ -1,0 +1,5 @@
+Odysseus|P|100|100|10|H|False|W|55|Lesser Health Potion,Bow of Odysseus|2,1|Odyssey's End
+Argos|P|120|100|20|H|False|W|60|Lesser Health Potion,Argos' Fangs|2,1|Loyal Companionship
+Circe|P|110|100|15|H|False|E|55|Lesser Health Potion,Circe's Wand|3,1|Circe's Dominion
+Perseus|P|100|100|30|H|False|F|50|Lesser Health Potion,Ciconian Spear|1,1|Trickster's Gambit
+Heracles|P|105|100|20|H|False|A|65|Lesser Health Potio,Sword of Heracles|2,1|Godly Strength
