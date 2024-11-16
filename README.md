@@ -19,7 +19,7 @@ Coded in April, 2024.
 ## 🚀 Getting Started
 
 ### How To Play
-- git clone https://github.com/your-username/quest-for-the-golden-shores.git
+- git clone https://github.com/Cimmerial/TheOdyssey.git
 - Compile: "g++ -std=c++17 project2C.cpp helperC.cpp mapC.cpp entityC.cpp equipmentC.cpp gameC.cpp potionsC.cpp -o odyssey"
 - Run with executable: "./odyssey"
 
